@@ -85,3 +85,27 @@ input {
 .banner .card {
     color: #e75459;
 }
+
+.banner_cadastro {
+    height: 600px;
+    background-image: url("../projeto-iot-revolucionario-renato/Aula_HTML_CSS/imgs/bg-jelly-fish-para-home.png");
+    background-size: cover;
+}
+.banner_cadastro .card_cadastro {
+    background-color: beige;
+    height: 600px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+}
+.card_cadastro {
+    margin-top: 20px;
+}
+.banner_cadastro .card_cadastro{
+    color: #e75459;
+}
+
